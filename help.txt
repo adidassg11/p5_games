@@ -1,0 +1,6 @@
+Things are broken, this should help fix it:
+
+http://processingjs.org/articles/jsQuickStart.html
+
+
+Broken meaning I can't create classes when only using .js files, everything has to be done in functions. Gotta figure out the PDE and 'processing' stuff
