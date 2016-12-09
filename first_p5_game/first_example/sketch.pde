@@ -1,4 +1,3 @@
-/*
 Star[] stars = new Star[800];
 
 // I create a variable "speed", it'll be useful to control the speed of stars.
@@ -28,5 +27,3 @@ void draw() {
     stars[i].show();
   }
 }
-
-*/

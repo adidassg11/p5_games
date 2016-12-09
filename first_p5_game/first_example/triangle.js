@@ -1,5 +1,5 @@
 class Triangle {
-    boolean isJunk;
+    boolean isJunk = false;
 
     Triangle(color) {
         this.isJunk = false;
